@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './smrtm.svg';
 import './App.css';
 
 function App() {
@@ -11,11 +11,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://smartium.io"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          SMARTIUM labs
         </a>
       </header>
     </div>
